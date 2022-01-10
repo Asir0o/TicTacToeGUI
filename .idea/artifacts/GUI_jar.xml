@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUI_jar</output-path>
+    <root id="archive" name="GUI.jar">
+      <element id="module-output" name="GUI" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Frame.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/TicTacToe.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Frame.form" />
+    </root>
+  </artifact>
+</component>
